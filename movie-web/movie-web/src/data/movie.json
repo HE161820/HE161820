@@ -1,0 +1,21 @@
+{
+    "movies": [
+        {
+            "title": "The Shawshank Redemption",
+            "genre": "Drama",
+            "averageRating": 9.3,
+            "reviews": [
+                {
+                    "user": "User1",
+                    "rating": 10,
+                    "comment": "One of the best movies ever made!"
+                },
+                {
+                    "user": "User2",
+                    "rating": 9,
+                    "comment": "A must-watch for everyone."
+                }
+            ]
+        }
+    ]
+}

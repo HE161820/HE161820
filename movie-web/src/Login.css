@@ -1,0 +1,15 @@
+.LoginContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 400px;
+    background-color: #67b4b3;
+    border: 2px solid black;
+    border-radius:10px ;
+  }
+  .login{
+    margin-top: 150px;
+    margin-bottom: 12px;
+  }
